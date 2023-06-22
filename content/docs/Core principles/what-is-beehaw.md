@@ -3,7 +3,7 @@ title: What is Beehaw?
 weight: 5
 ---
 # What is (and isn’t) Beehaw
-[Comments](https://beehaw.org/post/107014)
+[Comments](https://beehaw.org/post/107014?scrollToComments=true)
 
 ## Beehaw is a social media platform. 
 We do want you coming here and sharing links to news articles, websites you find, starting discussions, connecting with others, and in general doing what you see on other social media websites. 
@@ -21,7 +21,7 @@ It gets even more complicated when you consider someone who is sharing an opinio
 The only way for a platform which is hoping to exist as an explicitly nice place online to avoid taking sides in a situation like this is to *withdraw* from the quandary entirely. This kind of nuanced political and philosophical discussion is just simply not meant for Beehaw. We’d like to think that we're aware and learned enough to avoid ‘debating’ things like [phrenology](https://en.wikipedia.org/wiki/Phrenology), which are obviously racist, but we're also smart enough to realize that there are likely some ideas which we’ve internalized or been taught by a colonialist western society which are harmful to other minorities. We want to be able to learn about how everything we were taught was wrong, to be corrected, and that space can only exist when we don’t let people berate each other over ideas they project on others (whether that projection happens to be correct or not).
 
 ## Beehaw is not Reddit
-[Comments](https://beehaw.org/post/439918)
+[Comments](https://beehaw.org/post/439918https://beehaw.org/post/439918)
 
 This is **not** and is **not meant to be** a Reddit replacement. The original community here has decided to carve out a space for itself because we grew increasingly upset with modern social media. Modern social media has become a breeding ground for hate speech, for trolls, and for bad behavior. We don’t want to recreate that environment. We want to explicitly make a nice little corner of the internet where we can hide from racist, sexist, ableist, colonialist, homophobic, transphobic, and other forms of hateful speech. We want a space where people encourage each other, are nice to each other, are supportive and exploratory and playful. We think this can incorporate many wonderful features and aspects that made Reddit and other link aggregator and discussion based communities popular on the internet but it is not meant to be a replacement - we are and want to do something different. 
 
