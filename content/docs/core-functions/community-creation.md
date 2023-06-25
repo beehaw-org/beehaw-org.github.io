@@ -13,7 +13,7 @@ Another reason why we’ve locked down community creation also has to do with cr
 
 Mental health isn’t the *only* community where we might potentially run into the issue of playing nicely with our only rule, to be(e) nice. Sometimes, our hesitation comes from how we’ve seen communities focused on a particular subject play out across the rest of the internet. A few examples of this that you’re probably familiar with:
 
-* incel and men’s rights communitieso - ften misogynistic
+* incel and men’s rights communitieso - often misogynistic
 * unlimited free speech communities and platforms - often allow a lot of hate speech
 * certain kinds of communities focused on taking pictures of humans - often becoming dominated by thirst traps
 
@@ -28,6 +28,6 @@ With all of those hurdles, and community creation limited to admins, how do new 
 1. We open a topic to gather suggested communities from Beehaw users. Users can upvote suggestions that they are most interested in.
 2. Admins and existing community moderators privately discuss the most-desired new communities. Some of the things we consider include whether the new communities would likely be subject to major problems, whether there are people willing to moderate them, and whether there is already an existing community that could serve the same needs. The end result of this is that some ideas are moved on, some are held for further discussion, and some are removed from the list.
 3. We put together a web survey where users can vote on the remaining list of potential communities. Crucially, the question is not "do you want to see this community?" but rather "would you participate in this community?"
-4. After the survey closes, we create the communities that have the highest projected participation rate.
+4. After the survey closes, we create new communities. We'll take into account the projected participation rate, the availability of moderators, and the passion of those who want the community, among other factors.
 
 There's no fixed schedule for this process, but we anticipate creating new communities a few times per year.
