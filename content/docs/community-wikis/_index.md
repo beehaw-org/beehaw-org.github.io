@@ -31,4 +31,4 @@ title: "Your Community name"
    * Use the [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
    * For examples, you can look at the "raw" versions of existing wiki pages. Ie: [lgbtq_plus.md](https://raw.githubusercontent.com/beehaw-org/beehaw-org.github.io/main/content/docs/community-wikis/lgbtq_plus.md)
 7. Submit your page for review by by "committing the changes", and "creating a pull request" on the next page.
-8. Your changes will be reviewed by the Beehaw devs, and merged into the documentation.
+8. Your changes will be reviewed by the Beehaw admins, and merged into the documentation.
