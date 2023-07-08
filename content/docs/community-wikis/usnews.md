@@ -1,7 +1,8 @@
 ---
 title: US News
 ---
-### Intro
+# US News Wiki
+## Intro
 
 The goal of U.S. News is to be part of your news diet. As with food, a single source will never provide everything you need.
 
@@ -9,7 +10,7 @@ News-aggregation sites and media homepages are the equivalent of highly processe
 
 The goal here is to mediate the signal-to-noise ratio and provide stories that you may not have run into elsewhere but could be useful for context in the future. And then, of course, discuss the details and ramifications.
 
-### Balanced news diet
+## Balanced news diet
 
 This is probably where the most people are going to feel friction with our approach. We're not going to be where you turn for breaking news, and as there's no intent to scale to that activity point, that's an unreasonable stretch goal that also teaches zero skills.
 
@@ -23,7 +24,7 @@ I originally had my list of hard-news RSS feeds all nicely formatted below, but 
 
 That's the end of the teaching (unless someone wants to writeup or link an intro to RSS). 
 
-### Scope and aspirations
+## Scope and aspirations
 
 Beehaw's primary purpose is to be a community, so it follows that news aggregation must be in furtherance of that goal.
 
@@ -33,15 +34,13 @@ If this sounds gatekeepy and going against everybody being exposed to what they 
 
 Being an informed community member inherently means some level of participation, even if it's just scrolling. Beehaw's base is small, so subscribing to any communty you'd like to see news in can be done without a fresh wall of text every five minutes.
 
-(uh, oh, I'm teaching again)
-
 You don't have to click on anything; just seeing the titles will mean that when a story that interests you pops up, today, tomorrow, in a week, you might remember that you've heard about a detail before. I'm a news junkie and a mod, and across platforms, I interact with very little news proportionally. I read far more heds than actual stories, so there is absolutely nothing wrong with passive news consumption given quality sources.
 
 If you like science news, it's absurd to subscribe to U.S. News for it. The same holds true for each community here.
 
 Additionally, the conversations may be above your level of understanding within a community, but part of the purpose of comments is getting explanations in layman's terms. For self-evident reasons, the closer you are to the source, the less distilled your news is. You want to be on the line of what you already understand, not seeking out content geared to an audience beneath where you are.
 
-### Framing and perceived bias
+## Framing and perceived bias
 
 One of my first removals was one that I'd provided no warning on, so it bears mentioning here.
 
