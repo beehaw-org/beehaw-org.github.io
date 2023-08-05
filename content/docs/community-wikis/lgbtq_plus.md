@@ -202,10 +202,10 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [Queerspace](https://www.queerspace.org.au/): Has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria.
 - [Blaq](https://blaq.org.au/): The peak organisation for Aboriginal Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, Asexual + Sistergirl and Brotherboy (LGBTQ+SB) Peoples and Communities in NSW.
 - [Black Rainbow](https://blackrainbow.org.au/): A national volunteer Aboriginal and Torres Strait Islander LGBQTIA+SB social enterprise to pursue positive health and wellbeing of the Aboriginal and Torres Strait Islander LGBQTIA+SB community located in the Top End capital, Darwin, Northern Territory.
-- [Intersex Human Rights Australia](https://ihra.org.au/): A national body by and for people with intersex variations. We promote the human rights, self-determination and bodily autonomy of intersex people in Australia.
 - [IPSA](https://isupport.org.au/): Intersex Peer Support Australia is an intersex peer support, information and advocacy group for people born with variations in sex characteristics and their families.
 #### Charities and Civil Rights Organizations
 - [Q+Law](https://fls.org.au/how-we-can-help/qlaw/): Provides a safe entry point to access legal assistance for all individuals residing in Victoria who identify as part of the LGBTIQA+ community.
+- [Intersex Human Rights Australia](https://ihra.org.au/): A national body by and for people with intersex variations. We promote the human rights, self-determination and bodily autonomy of intersex people in Australia.
 #### In a Crisis?
 - [QLife](https://qlife.org.au/): Provides anonymous and free LGBTIQ+ peer support and referral for people in Australia wanting to talk about sexuality, identity, gender, bodies, feelings or relationships. Open 3pm to Midnight, Every day. (1800 184 527, webchat)
 - [Rainbow Door](https://www.rainbowdoor.org.au/): A free specialist LGBTIQA+ (Lesbian, Gay , Bisexual, Transgender and Gender Diverse, Intersex, Queer, Asexual, BrotherBoys, SisterGirls) helpline providing information, support, and referral to all LGBTIQA+ Victorians, their friends and family. Open 10am-5pm, Every day. (1800 729 367, TXT:0480 017 246)
