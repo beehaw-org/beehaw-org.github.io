@@ -196,6 +196,16 @@ We are not medical experts, and cannot independently verify or vouch for the fol
 - [Otwarta Przestrzeń](https://otwartaprzestrzen.pl/): "Otwarta Przestrzeń to miejsce stworzone z myślą o wspieraniu osób LGBTQIAP i ich bliskich." (Open Space is a place created to support LGBTQIAP people and their loved ones.)
 - [Grupa Stonewall](https://grupa-stonewall.pl/): "Grupa Stonewall została założona 22 maja 2015 r. Jesteśmy organizacją LGBT+ działającą na terenie Wielkopolski." (The Stonewall Group was founded on May 22, 2015. We are an LGBT+ organization operating in Greater Poland.)
 
+### Australia
+#### General Resources
+- [Switchboard Victoria](https://www.switchboard.org.au/): Switchboard Victoria is a community based not for profit organisation that provides a peer driven, support service for the lesbian, gay, bisexual, transgender and gender diverse, intersex, queer, asexual (LGBTIQA+) communities and their allies, friends, support workers and families.
+- [Queerspace](https://www.queerspace.org.au/): Queerspace has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria.
+#### Charities and Civil Rights Organizations
+- [Q+Law](https://fls.org.au/how-we-can-help/qlaw/): Q+ Law provides a safe entry point to access legal assistance for all individuals residing in Victoria who identify as part of the LGBTIQA+ community.
+#### In a Crisis?
+- [QLife](https://qlife.org.au/): QLife provides anonymous and free LGBTIQ+ peer support and referral for people in Australia wanting to talk about sexuality, identity, gender, bodies, feelings or relationships. Open 3pm to Midnight, Every day. (1800 184 527, webchat)
+- [Rainbow Door](https://www.rainbowdoor.org.au/): Rainbow Door is a free specialist LGBTIQA+ (Lesbian, Gay , Bisexual, Transgender and Gender Diverse, Intersex, Queer, Asexual, BrotherBoys, SisterGirls) helpline providing information, support, and referral to all LGBTIQA+ Victorians, their friends and family. Open 10am-5pm, Every day. (1800 729 367, TXT:0480 017 246)
+
 ### Other countries
 - **IE**: [Transgender Equality Network Ireland](https://teni.ie/): "Transgender Equality Network Ireland (TENI) seeks to improve conditions and advance the rights and equality of trans people and their families."
 - **NZ**: Rainbow Support Collective: A network of Aotearoa's rainbow organisations. Website coming soon - see [Be There](https://be-there.org.nz) for a list of organisations.
