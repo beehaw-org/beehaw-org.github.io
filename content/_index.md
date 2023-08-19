@@ -1,5 +1,5 @@
----
+---                                                                                                      
 title: Beehaw Docs
-icon: "circle"
-type: docs
+layout: "redirect"
+redirect_url: /docs
 ---
