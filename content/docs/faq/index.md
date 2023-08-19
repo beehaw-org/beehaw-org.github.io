@@ -1,11 +1,8 @@
 ---
 weight: 1
-bookFlatSection: true
+icon: help
 title: "FAQ"
 ---
-
-# FAQ
-
 ## How do I join?
 You can register [here](https://beehaw.org/signup).
 
@@ -13,7 +10,7 @@ You can register [here](https://beehaw.org/signup).
 
 ## How can I contact you?
 
-You can send us an email at [email](mailto:support@beehaw.org)
+You can send us an [email](mailto:support@beehaw.org)!
 
 ## How long should I expect to wait to be approved?
 **Anywhere from a few minutes to 48 hours.** 
