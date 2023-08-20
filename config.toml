@@ -1,4 +1,4 @@
-baseURL = 'https://docs.beehaw.org/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Beehaw Docs'
 
