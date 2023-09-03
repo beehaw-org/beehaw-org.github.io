@@ -24,9 +24,9 @@
                                         {{- partial (printf "%s/%s" (.Site.Params.docs.pathName | default "docs") "breadcrumbs.html") . -}}
                                     </div>
                                 {{ end }}
-                                <div class="row flex-xl-nowrap justify-content-evenly">
+                                <div class="row flex-xl-nowrap justify-content-start">
                                     {{ if site.Params.docs.toc | default true }}
-                                    <div class="docs-toc col-xl-3 {{ if and (ne .Params.toc false) (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}{{ else }}invisible{{ end }} {{ if site.Params.docs.toc | default true }}{{ else }}visually-hidden{{ end }} d-xl-block">
+                                    <div class="docs-toc col-xl-3 {{ if .Params.hidetoc }}visually-hidden{{end}} {{ if and (ne .Params.toc false) (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") }}{{ else }}visually-hidden{{ end }} {{ if site.Params.docs.toc | default true }}{{ else }}visually-hidden{{ end }} d-xl-block">
                                         {{- partial (printf "%s/%s" (.Site.Params.docs.pathName | default "docs") "toc.html") . -}}
                                     </div>
                                     {{ end }}
