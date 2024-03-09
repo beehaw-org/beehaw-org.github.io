@@ -1,4 +1,3 @@
-
 ---
 title: Beehaw, Lemmy, and A Vision of the Fediverse
 weight: 16
