@@ -6,8 +6,7 @@ weight: 16
 
 [Comments](<<placeholder>>)
 
-
-If you ask ChatGPT to summarize why Fediverse software is better than traditional social media, you might get reasons like decentralization, privacy, interoperability, or community control—and you can probably easily prioritize which of these are most important to you. In doing so, you are establishing your vision for federated software. This is, in short, an essay about that premise as applied to Beehaw. But it's also about that premise as applied to Lemmy as a software and the critiques we have of it; how we believe our two philosophies are in conflict and on what bases; and the way forward we see here in light of these conflicting philosophies.
+If you ask ChatGPT to summarize why Fediverse software is better than traditional social media, you might get reasons like decentralization, privacy, interoperability, or community control—and you can probably easily prioritize which of these are most important to you. In doing so, you are establishing your vision for federated software. Today, we're going to flesh out our vision of Beehaw, and what we prioritize in our vision of federated software and the Fediverse as a whole. But we're also going to talk about Lemmy as a software and its vision, and the critiques we have of those; the mounting evidence that suggests our vision is in conflict with theirs (and on what bases we think this is now the case); and the way forward we see for our community in light of these conflicting visions.
 
 ## Beehaw and Lemmy
 
