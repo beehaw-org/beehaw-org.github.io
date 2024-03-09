@@ -2,14 +2,14 @@
 title: Beehaw, Lemmy, and A Vision of the Fediverse
 weight: 16
 ---
-
+# Ruminations on the past and visions of the future
 
 [Comments](<<placeholder>>)
 
 
 If you ask ChatGPT to summarize why Fediverse software is better than traditional social media, you might get reasons like decentralization, privacy, interoperability, or community control—and you can probably easily prioritize which of these are most important to you. In doing so, you are establishing your vision for federated software. This is, in short, an essay about that premise as applied to Beehaw. But it's also about that premise as applied to Lemmy as a software and the critiques we have of it; how we believe our two philosophies are in conflict and on what bases; and the way forward we see here in light of these conflicting philosophies.
 
-### Beehaw and Lemmy
+## Beehaw and Lemmy
 
 One of the core goals of Beehaw is to create a nice space on the internet. When we joined Lemmy a little over two years ago, we saw it as a good fit for that–making our own platform and getting it right required an amount of time and energy that we couldn't commit to. Lemmy also had many of the features of community control we were looking for while simultaneously connecting us with other communities through federation. But Lemmy is not perfect. Particularly since June of 2023 the rapid growth of our community, and the surrounding nebula of federated communities that have joined us here, have caused growing pains and exposed new issues that we've talked about a lot on here, on Discord, on Matrix, to other Lemmy admins and volunteers, and of course to the Lemmy developers themselves.
 
