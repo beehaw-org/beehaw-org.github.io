@@ -3,7 +3,7 @@ title: LGBTQ+ wiki
 icon: diversity_1
 ---
 {{< alert context="warning" >}}
-The following list has been assessed for link-rot and accessibility as of July 10, 2023. Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
+The following list has been assessed for link-rot and accessibility as of January 27, 2025 Please report any dead links or missing resources you come across, and we'll remove them (and hopefully replace them) as soon as possible.
 {{< /alert >}}
 
 Parts of this page have been adapted from the [Global Transgender Resources Registry](https://gtrr.artemislena.eu/), the Tildes [~lgbt wiki](https://tildes.net/~lgbt/wiki/lgbt_resources) (to which one of our admins was a previous contributor), and Emi's [blahaj.zone](https://lemmy.blahaj.zone/post/154325) thread.
@@ -14,13 +14,14 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 - [The Gender Dysphoria Bible](https://genderdysphoria.fyi/): "The purpose of this site is to document the many ways that Gender Dysphoria can manifest, as well as the numerous forms of gender transition, in order to provide a guide for those who are questioning, those who are starting their transgender journey, those already on their path, and those who simply wish to be better allies."
 - [Gender Census](https://www.gendercensus.com/): "The Gender Census is an annual survey that collects information about the language used by people whose genders are not adequately described, expressed or encompassed by the restrictive gender binary. It has taken place every year since 2015."
 - [MSpec ("multi-attraction spectrum") Wiki](https://mspec.miraheze.org/wiki/Main_Page): "...our goal is to build a wiki with in-depth information about all orientations which are attracted to more than one gender."
+- [Homosaurus](https://homosaurus.org/): "The Homosaurus is an international linked data vocabulary of Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ) terms. This vocabulary is intended to function as a companion to broad subject term vocabularies, such as the Library of Congress Subject Headings. Libraries, archives, museums, and other institutions are encouraged to use the Homosaurus to support LGBTQ research by enhancing the discoverability of their LGBTQ resources."
 
 ### Transgender Resources
 - **[Transgender Professional Association for Transgender Health (TPATH)](https://tpathealth.org/)**: The Transgender Professional Association for Transgender Health is the first global transgender healthcare organization headed by trans-identified health care professionals, broadly identified as researchers, clinicians, providers-in-training, activists and other service-oriented experts.
 - **[World Professional Association for Transgender Health (WPATH)](https://www.wpath.org/)**: The World Professional Association for Transgender Heath is interdisciplinary professional and educational organization devoted to transgender health. Our professional, supporting, and student members engage in clinical and academic research to develop evidence-based medicine and strive to promote a high quality of care for transsexual, transgender, and gender-nonconforming individuals internationally.
 - [Trans Rescue](https://transrescue.org/): "If you are a trans person in a part of the world where trans people are under threat, and you are in serious danger, we may be able to help you."
 - [TransHealthcare](https://www.transhealthcare.org/): "TransHealthCare is the largest and most comprehensive database of Gender Surgeons." **Primarily covers US, but also seems to have listings for other countries.**
-- **US**: [US Trans Survey](https://www.ustranssurvey.org/): runs annually
+- **US**: [US Trans Survey](https://www.ustranssurvey.org/): last run in 2022; website still has good documentation of findings from existing surveys
 - [Trans Voice](https://transvoice.party/): Resources on voice training for trans people, and communities to help facilitate voice training.
 - [Point of Pride](https://www.pointofpride.org/): "Point of Pride provides financial aid and direct support to trans folks in need of health and wellness care." Notably provides **free chest binders** for trans people.
 - [Transfeminine Science](https://transfemscience.org/): "Transfeminine Science is a resource for original informational content on the subject of transfeminine hormone therapy. [...] Transfeminine Science is written by transgender people, for transgender people—and for their medical providers."
@@ -30,8 +31,8 @@ Parts of this page have been adapted from the [Global Transgender Resources Regi
 {{< alert context="danger" >}}
 Disclaimer: We are not medical experts, and cannot independently verify or vouch for the following websites. We encourage you to use any legal and medical resource within your power to undergo HRT before exercising these resources. Use them at your own risk. If you think you may have a medical emergency, please contact a doctor or emergency services.
 {{< /alert >}}
-- [diyhrt.wiki](https://diyhrt.wiki/index): "This website intends to teach transgender people how to safely perform DIY Hormone Replacement Therapy."
-- [diyhrt.cafe](https://diyhrt.cafe/index.php/Main_Page) ([how they verify sellers](https://diyhrt.cafe/index.php/Project:Verification))
+- [diyhrt.wiki](https://diyhrt.wiki/index): "This website intends to teach transgender people how to safely perform DIY Hormone Replacement Therapy. [...] Whether it’s due to cost, familial issues, or a myriad of other reasons, HRT is inaccessible for many trans people... If you or someone you know fit into this category, this site is designed to help."
+- [hrt.cafe](https://hrtcafe.net/) (note that the page on how they verify sellers is no longer up)
 
 ### Nonbinary Resources
 - [Nonbinary Wiki](https://nonbinary.wiki/wiki/Main_Page)
@@ -48,7 +49,6 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 - [Asexuality Handbook](https://www.asexuality-handbook.com/): "This site's aim is to provide easy access to information and advice about asexuality that is understandable, deep, and well referenced."
 - **US**: [The Ace and Aro Advocacy Project (TAAAP)](https://taaap.org/): "TAAAP is an organization dedicated to providing resources on asexuality and aromanticism to the public."
 - [Ace Community Survey](https://acecommunitysurvey.org/): "The Ace Community Survey is an annual survey by the Ace Community Survey Team, which collects valuable information on the demographics and experiences of members in the ace community."
-- Resources page from the now-defunct [Asexuality New Zealand Trust](https://asexualitytrust.org.nz/what-is-asexuality/)
 - [Asexual Agenda](https://asexualagenda.wordpress.com/)
 
 ### Intersex Resources 
@@ -61,7 +61,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 
 ### HIV/AIDS Resources
 - **US**: [CDC](http://www.cdc.gov/hiv/)
-  - [Paying for Pre-Exposure Prophylaxis (PrEP): Gilead Medication Assistance Program](https://www.cdc.gov/hiv/basics/prep/paying-for-prep/gilead-medication-assistance-program.html)
+  - [Paying for Pre-Exposure Prophylaxis (PrEP): Gilead Medication Assistance Program](https://www.gilead.com/medicines/medication-access)
 - **US**: [San Francisco Aids Foundation](http://www.sfaf.org/)
 - **UK**: [NHS](https://www.nhs.uk/conditions/hiv-and-aids/)
 - **UK**: [Terrence Higgins Trust](https://www.tht.org.uk/)
@@ -75,7 +75,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 
 #### Finding HIV/AIDS Testing
 - [Canada](https://www.canada.ca/en/public-health/services/diseases/hiv-aids.html#find)
-- [USA](http://hivtest.cdc.gov/)
+- [USA](https://gettested.cdc.gov/)
 
 ## National Resources
 
@@ -85,11 +85,11 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 - [Refuge Restrooms](https://www.refugerestrooms.org/): a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals
 - [Erin Reeds’s informed consent clinics map](https://www.google.com/maps/d/u/0/viewer?mid=1DxyOTw8dI8n96BHFF2JVUMK7bXsRKtzA&ll=-3.81666561775622e-14%2C-109.09443705000001&z=2): Erin Reed’s informed consent map lists every informed consent hormone therapy clinic.
 - [Strong Family Alliance's faith-based organizations list](https://www.strongfamilyalliance.org/hopeful-voices/faith-based-organizations/): **This is a list of organizations and services for religious LGBTQ+ and queer people.** Although mostly tailored toward the major American Christian denominations, it includes non-Christian resources as well.
+- [Pink Unicorn Guide – a 2STGE+ Survival Zine & Organizing Tool Kit](https://transresistancenetwork.wordpress.com/pinkunicorn/)
 
 #### Relocation Resources
 - [The Trans Resistance Network (TRN)](https://transresistancenetwork.wordpress.com/): Formed to ensure the survival of gender diverse people and families through strategic coordination of resources for relocation, alternative systems of gender-affirming care, mutual aid, and community defense.
 - [Rainbow Passage](https://rainbowpassage.org/): Providing transportation for individuals in harm's way, with a focus on bringing them to the Sanctuary states and cities. Safely escorting individuals to communities with the necessary legal, financial, educational, and medical resources to meet their needs.
-- [A Place For Marsha](https://www.aplaceformarshaofficial.org/): A Place for Marsha is one of many start-up projects aiming towards helping Trans individuals and families in increasingly dangerous states to a safer place.
 
 #### Charities and Civil Rights Organizations
 - [Trevor Project](https://www.thetrevorproject.org/)
@@ -100,7 +100,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 - [National Center for Lesbian Rights](http://www.nclrights.org/)
 - [LGBT Victory Fund](https://victoryfund.org/)
 - [GLAAD](http://glaad.org/)
-- [Gay, Lesbian, Bisexual, and Transgender Round Table](http://www.ala.org/rt/glbtrt)
+- [Rainbow Round Table (RRT)](https://www.ala.org/rrt)
 - [Human Rights Campaign](https://hrc.org/)
 - [American Civil Liberties Union](https://www.aclu.org/)
 
@@ -112,7 +112,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 ### United Kingdom
 #### General Resources
 - **[Gender Construction Kit](http://genderkit.org.uk/): In the UK? Here's how to...**
-- [The Angels](http://www.theangels.co.uk), an internet support group for trans women
+- [The Angels](http://www.theangels.co.uk), an internet support group for trans women; the website will remain up, but the community will move to [Facebook](https://www.facebook.com/groups/UkAngels) after February 28, 2025 due to the Online Safety Act.
 
 #### Charities and Civil Rights Organizations
 - [Press For Change](http://www.pfc.org.uk), "Press for Change has been a key lobbying and legal support organisation for Trans people in the UK. since its formation in 1992."
@@ -196,7 +196,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 - [Switchboard Victoria](https://www.switchboard.org.au/): A community based not for profit organisation that provides a peer driven, support service for the lesbian, gay, bisexual, transgender and gender diverse, intersex, queer, asexual (LGBTIQA+) communities and their allies, friends, support workers and families.
 - [Queerspace](https://www.queerspace.org.au/): Has a focus on relationships, families, parenting and young people and offers co-located services across the north- west metropolitan region of Victoria.
 - [Blaq](https://blaq.org.au/): The peak organisation for Aboriginal Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, Asexual + Sistergirl and Brotherboy (LGBTQ+SB) Peoples and Communities in NSW.
-- [Black Rainbow](https://blackrainbow.org.au/): A national volunteer Aboriginal and Torres Strait Islander LGBQTIA+SB social enterprise to pursue positive health and wellbeing of the Aboriginal and Torres Strait Islander LGBQTIA+SB community located in the Top End capital, Darwin, Northern Territory.
+- [Black Rainbow](https://blackrainbow.org.au/): A national volunteer Aboriginal and Torres Strait Islander LGBQTIA+SB social enterprise to pursue positive health and wellbeing of the Aboriginal and Torres Strait Islander LGBQTIA+SB community located in the Top End capital, Darwin, Northern Territory. **Website down as of January 27, but [Facebook](https://www.facebook.com/BlackRainbowAustralia/) still up; says they will be active in 2025.**
 - [IPSA](https://isupport.org.au/): Intersex Peer Support Australia is an intersex peer support, information and advocacy group for people born with variations in sex characteristics and their families.
 #### Charities and Civil Rights Organizations
 - [Q+Law](https://fls.org.au/how-we-can-help/qlaw/): Provides a safe entry point to access legal assistance for all individuals residing in Victoria who identify as part of the LGBTIQA+ community.
@@ -207,7 +207,7 @@ Disclaimer: We are not medical experts, and cannot independently verify or vouch
 
 ### Other countries
 - **IE**: [Transgender Equality Network Ireland](https://teni.ie/): "Transgender Equality Network Ireland (TENI) seeks to improve conditions and advance the rights and equality of trans people and their families."
-- **NZ**: Rainbow Support Collective: A network of Aotearoa's rainbow organisations. Website coming soon - see [Be There](https://be-there.org.nz) for a list of organisations.
+- **NZ**: Rainbow Support Collective: A network of Aotearoa's rainbow organisations. Website coming soon - see [Be There](https://www.be-there.nz) for a list of organisations.
 
 #### In a Crisis?
 The following lists are generally considered to be trustworthy and up to date, although we cannot independently vouch for them at all times. They comprise a mixture of community and international hotlines, depending on your need.
