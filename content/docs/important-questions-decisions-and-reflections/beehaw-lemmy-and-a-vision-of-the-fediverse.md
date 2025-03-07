@@ -14,10 +14,10 @@ We've done a *lot* to try and mitigate or fix those growing pains. We've attempt
 
 This is all to say: we've been given many different channels and suggestions by the developers during our time on this platform for how to influence priorities. However, those priorities still have not materialized even after we used those channels and followed those suggestions–in fact, we've often observed our priorities seemingly being derided, played down at times, or left to languish. Increasingly, it has become evident that our suggestions are viewed as some sort of attack or criticism of the Lemmy developers. In fact, an interaction with the Lemmy developers recently culminated in being told quite unambiguously that we should leave the platform and that our priorities are entitled:
 
-![](/exchange-with-lemmy-devs-1.png)
-![](/exchange-with-lemmy-devs-2.png)
-![](/exchange-with-lemmy-devs-3.png)
-![](/exchange-with-lemmy-devs-4.png)
+![](/static/exchange-with-lemmy-devs-1.png)
+![](/static/exchange-with-lemmy-devs-2.png)
+![](/static/exchange-with-lemmy-devs-3.png)
+![](/static/exchange-with-lemmy-devs-4.png)
 
 It should go without saying: we disagree strongly with this treatment, we contest the idea that these are "demands," and we believe the Lemmy developers were acting severely out of turn here. (It would also appear that, at least for a time, [some of our comments were removed](https://discuss.online/modlog?page=1&actionType=ModRemoveComment&userId=42) and several of us were banned from their instance–although this may now be overturned.)
 
